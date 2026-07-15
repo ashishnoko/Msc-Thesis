@@ -73,22 +73,6 @@ Random Forest achieved better predictive performance than Linear Regression base
 
 ---
 
-## Repository Structure
-
-```
-.
-├── Thesis.pdf
-├── data/
-├── python/
-├── powerbi/
-├── figures/
-├── notebooks/
-├── results/
-└── README.md
-```
-
----
-
 ## Key Findings
 
 - Glacier mass loss varies significantly across High Mountain Asia.
